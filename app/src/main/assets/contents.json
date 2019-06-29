@@ -1,1071 +1,1093 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.loveromantic.stickers",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.goodmorning.goodnightSticker",
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "1",
-      "name": "stickers",
+      "identifier": "3",
+      "name": "Good Morning - Pack 1",
       "publisher": "Sanjay",
-"tray_image_file": "00.png",
+      "tray_image_file": "morning_tray.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp",
+          "image_file": "1_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "2.webp",
+          "image_file": "2_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "3.webp",
+          "image_file": "3_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "4.webp",
+          "image_file": "4_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "5.webp",
+          "image_file": "5_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "6.webp",
+          "image_file": "6_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "7.webp",
+          "image_file": "7_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "8.webp",
+          "image_file": "8_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "9.webp",
+          "image_file": "9_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "10.webp",
+          "image_file": "10_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
-        },{
-          "image_file": "11.webp",
+        },
+        {
+          "image_file": "11_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
-        },{
-          "image_file": "12.webp",
+        },
+        {
+          "image_file": "12_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
-        },{
-          "image_file": "13.webp",
+        },
+        {
+          "image_file": "13_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
-        },{
-          "image_file": "14.webp",
+        },
+        {
+          "image_file": "14_Morning.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "15_Morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16_Morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "17_Morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18_Morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19_Morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20_Morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "21_Morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "22_Morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "23_Morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "24_Morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
           ]
         }
-
+      ]
+    },
+    {
+      "identifier": "34",
+      "name": "Good Morning - Pack 2",
+      "publisher": "Sanjay",
+      "tray_image_file": "morning_tray.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "4_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "7_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "9_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "11_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "13_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "15_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "17_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "35",
+      "name": "Good Morning - Pack 3",
+      "publisher": "Sanjay",
+      "tray_image_file": "morning_tray.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "4_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "7_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "9_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "11_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "13_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "15_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "17_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19_good morning.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20_good morning.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        }
       ]
     },
     {
       "identifier": "2",
-      "name": "Stickers",
+      "name": "Have a Nice Day",
       "publisher": "Sanjay",
-"tray_image_file": "00.png",
+      "tray_image_file": "tray.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp",
+          "image_file": "1_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "2.webp",
+          "image_file": "2_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "3.webp",
+          "image_file": "3_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "4.webp",
+          "image_file": "4_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "5.webp",
+          "image_file": "5_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "6.webp",
+          "image_file": "6_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "7.webp",
+          "image_file": "7_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "8.webp",
+          "image_file": "8_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "9.webp",
+          "image_file": "9_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "10.webp",
+          "image_file": "10_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
-        },{
-          "image_file": "11.webp",
+        },
+        {
+          "image_file": "11_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
-        },{
-          "image_file": "12.webp",
+        },
+        {
+          "image_file": "12_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
-        },{
-          "image_file": "13.webp",
+        },
+        {
+          "image_file": "13_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
-        },{
-          "image_file": "14.webp",
+        },
+        {
+          "image_file": "14_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
-        },{
-          "image_file": "15.webp",
+        },
+        {
+          "image_file": "15_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
-        },{
-          "image_file": "16.webp",
+        },
+        {
+          "image_file": "16_nice day.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "17_nice day.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18_nice day.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19_nice day.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20_nice day.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "21_nice day.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "22_nice day.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "23_nice day.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "24_nice day.webp",
+          "emojis": [
+            "😄",
+            "😀"
           ]
         }
-
-      ]
-    },
-    {
-      "identifier": "3",
-      "name": "Stickers",
-      "publisher": "Sanjay",
-"tray_image_file": "00.png",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "11.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "12.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        }
-
-      ]
-    },
-    {
-      "identifier": "4",
-      "name": "Stickers",
-      "publisher": "Sanjay",
-"tray_image_file": "00.png",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "11.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "12.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "13.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "14.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "15.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        }
-
-      ]
-    },
-    {
-      "identifier": "5",
-      "name": "Stickers",
-      "publisher": "Sanjay",
-"tray_image_file": "00.png",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "11.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "12.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "13.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "14.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "15.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "16.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "17.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "18.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "19.webp",
-          "emojis": [
-            "??",
-            "??"
-
-          ]
-        },{
-          "image_file": "20.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        }
-
-      ]
-    },
-    {
-      "identifier": "6",
-      "name": "Stickers",
-      "publisher": "Sanjay",
-"tray_image_file": "00.png",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "11.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "12.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "13.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "14.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "15.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        }
-
-      ]
-    },
-    {
-      "identifier": "7",
-      "name": "Stickers",
-      "publisher": "Sanjay",
-"tray_image_file": "00.png",
-      "publisher_email": "",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "2.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "3.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "4.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "5.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "6.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "7.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "8.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "9.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },
-        {
-          "image_file": "10.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "11.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "12.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "13.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "14.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "15.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "16.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        }
-
       ]
     },
     {
       "identifier": "8",
-      "name": "Stickers",
+      "name": "Good Night - Pack 1",
       "publisher": "Sanjay",
-"tray_image_file": "00.png",
+      "tray_image_file": "good_night_tray.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp",
+          "image_file": "1_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "2.webp",
+          "image_file": "2_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "3.webp",
+          "image_file": "3_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "4.webp",
+          "image_file": "4_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "5.webp",
+          "image_file": "5_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "6.webp",
+          "image_file": "6_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "7.webp",
+          "image_file": "7_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "8.webp",
+          "image_file": "8_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "9.webp",
+          "image_file": "9_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "10.webp",
+          "image_file": "10_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
-        },{
-          "image_file": "11.webp",
+        },
+        {
+          "image_file": "11_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
-        },{
-          "image_file": "12.webp",
+        },
+        {
+          "image_file": "12_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
-        },{
-          "image_file": "13.webp",
+        },
+        {
+          "image_file": "13_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
-        },{
-          "image_file": "14.webp",
+        },
+        {
+          "image_file": "14_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
-        },{
-          "image_file": "15.webp",
+        },
+        {
+          "image_file": "15_Good Night.webp",
           "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "16.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "17.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "18.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "19.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "20.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "21.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "22.webp",
-          "emojis": [
-            "??",
-            "??"
-          ]
-        },{
-          "image_file": "23.webp",
-          "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         }
-
       ]
     },
     {
-      "identifier": "9",
-      "name": "Stickers",
+      "identifier": "36",
+      "name": "Good Night - Pack 2",
       "publisher": "Sanjay",
-"tray_image_file": "00.png",
+      "tray_image_file": "night_tray.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "1.webp",
+          "image_file": "1_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "2.webp",
+          "image_file": "2_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "3.webp",
+          "image_file": "3_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "4.webp",
+          "image_file": "4_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "5.webp",
+          "image_file": "5_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "6.webp",
+          "image_file": "6_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "7.webp",
+          "image_file": "7_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "8.webp",
+          "image_file": "8_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
         },
         {
-          "image_file": "9.webp",
+          "image_file": "9_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
         },
         {
-          "image_file": "10.webp",
+          "image_file": "10_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
           ]
-        },{
-          "image_file": "11.webp",
+        },
+        {
+          "image_file": "11_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "☕",
+            "🙂"
           ]
-        },{
-          "image_file": "12.webp",
+        },
+        {
+          "image_file": "12_good night.webp",
           "emojis": [
-            "??",
-            "??"
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "13_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "15_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "17_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "37",
+      "name": "Good Night - Pack 3",
+      "publisher": "Sanjay",
+      "tray_image_file": "night_tray.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "4_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "7_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "9_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "11_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "13_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "15_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "17_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19_good night.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20_good night.webp",
+          "emojis": [
+            "😄",
+            "😀"
           ]
         }
 
+
       ]
     }
-  ]}
+  ]
+}
