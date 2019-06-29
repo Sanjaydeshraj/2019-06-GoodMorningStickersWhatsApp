@@ -4,32 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".StickerPackListActivity">
     <!--tools:showIn="@layout/activity_sticker_pack_list"-->
-
-    <TextView
-        android:id="@+id/tv_ads"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
-        android:drawableLeft="@drawable/ic_info"
-        android:text=" Ads" />
-
-    <android.support.v4.view.ViewPager
-        android:id="@+id/viewPager"
-        android:layout_width="match_parent"
-        android:layout_height="190dp"
-        android:layout_below="@+id/tv_ads" />
-
-    <LinearLayout
-        android:id="@+id/SliderDots"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/viewPager"
-        android:layout_marginTop="-20dp"
-        android:elevation="4dp"
-        android:gravity="center_vertical|center_horizontal"
-        android:orientation="horizontal" />
 
     <TextView
         android:id="@+id/error_message"
@@ -43,7 +20,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_above="@+id/native_banner_ad_container"
-        android:layout_below="@+id/viewPager" />
+        android:layout_alignParentTop="true" />
+
+    <!--<com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sticker_pack_list"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/admob_banner_ad_id"></com.google.android.gms.ads.AdView>-->
 
     <com.facebook.ads.NativeAdLayout
         android:id="@+id/native_banner_ad_container"
@@ -52,3 +39,4 @@
         android:layout_alignParentBottom="true" />
 
 </RelativeLayout>
+

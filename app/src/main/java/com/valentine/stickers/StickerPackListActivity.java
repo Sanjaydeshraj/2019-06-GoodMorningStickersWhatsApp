@@ -73,21 +73,20 @@ public class StickerPackListActivity extends AddStickerPackActivity {
     //private InterstitialAd interstitialAd;
 
     //Top Banner Ads
-    ViewPager viewPager;
-    ViewPagerAdapter viewPagerAdapter;
-    LinearLayout sliderDotspanel;
-    private int dotscount;
-    private ImageView[] dots;
-    Timer timer;
+   // ViewPager viewPager;ViewPagerAdapter viewPagerAdapter;
+   /// LinearLayout sliderDotspanel;
+   //private int dotscount;
+   // private ImageView[] dots;
+  // Timer timer;
     TimerTask timerTask;
-    final Handler handler = new Handler();
+   // final Handler handler = new Handler();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sticker_pack_list);
 
-        promoMyBannerAds();
+       // promoMyBannerAds();
 
         packRecyclerView = findViewById(R.id.sticker_pack_list);
         stickerPackList = getIntent().getParcelableArrayListExtra(EXTRA_STICKER_PACK_LIST_DATA);
@@ -168,7 +167,7 @@ public class StickerPackListActivity extends AddStickerPackActivity {
         });*/
     }
 
-    private void promoMyBannerAds() {
+  /*  private void promoMyBannerAds() {
         viewPager = findViewById(R.id.viewPager);
         sliderDotspanel = findViewById(R.id.SliderDots);
 
@@ -274,7 +273,7 @@ public class StickerPackListActivity extends AddStickerPackActivity {
         };
         timer.schedule(timerTask, 10000, 10000);
     }
-
+*/
     @Override
     public void onBackPressed() {
         //super.onBackPressed();

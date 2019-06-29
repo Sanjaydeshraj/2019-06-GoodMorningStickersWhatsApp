@@ -23,18 +23,18 @@ android {
     }
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.loveromantic.stickers2"
+        applicationId "com.loveromantic.stickers"
         minSdkVersion 15
         targetSdkVersion 28
         ///change version code when update on play console
         versionCode 2
-        versionName "1.1"
+        versionName "1.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
         manifestPlaceholders =
                 [contentProviderAuthority       : contentProviderAuthority,
-                 onesignal_app_id               : '0074c1fd-84bf-438b-8302-936caa2786a9',
+                 onesignal_app_id               : '49623436-4bf4-4252-872c-5783eea7b016',
                  // Project number pulled from dashboard, local value is ignored.
                  onesignal_google_project_number: 'REMOTE']
         // Adds a new field for the authority to the BuildConfig class.
